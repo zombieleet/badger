@@ -1,1 +1,3 @@
-tools/img2bmp
+/bin/
+*.elf
+*.uf2

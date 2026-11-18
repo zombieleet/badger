@@ -1,3 +1,4 @@
+.PHONY: img2bmp
 
 img2bmp:
-	go build -o tools/ tools/img2bmp.go
+	go build -o bin/img2bmp ./tools/img2bmp
